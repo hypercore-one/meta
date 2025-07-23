@@ -16,7 +16,7 @@ This repository contains:
 
 - [Contributing](/contributing) - Shows how to modify the documentation
 - [Markdown Examples](/markdown) - Examples of markdown formatting
-- [Frontmatter Examples](/frontmatter) -Examples of frontmatter formatting
+- [Frontmatter Examples](/frontmatter) - Examples of frontmatter formatting
 
 ## Contributing
 
