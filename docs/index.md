@@ -14,8 +14,9 @@ This repository contains:
 
 ## Getting Started
 
-- [Markdown Examples](/markdown-examples) - Examples of markdown formatting
-- [API Examples](/api-examples) - Runtime API examples
+- [Contributing](/contributing) - Shows how to modify the documentation
+- [Markdown Examples](/markdown) - Examples of markdown formatting
+- [Frontmatter Examples](/frontmatter) -Examples of frontmatter formatting
 
 ## Contributing
 

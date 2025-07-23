@@ -9,21 +9,30 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Documentation', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Writing', link: '/markdown' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Meta'
+      },
+      {
+        text: 'Writing',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Contributing', link: '/contributing'},
+          { text: 'Markdown Examples', link: '/markdown' },
+          { text: 'Frontmatter Examples', link: '/frontmatter' }
         ]
       }
     ],
 
+    editLink: {
+      pattern: 'https://github.com/hypercore-one/meta/edit/master/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
+
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/hypercore-one/meta' }
     ]
   }
 })
