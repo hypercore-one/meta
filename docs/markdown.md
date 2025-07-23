@@ -74,7 +74,7 @@ lang: en-US
 
 This data will be available to the rest of the page, along with all custom and theming components.
 
-For more details, see [Frontmatter](../reference/frontmatter-config).
+For more details, see [Frontmatter](https://vitepress.dev/reference/frontmatter-config).
 
 ## GitHub-Style Tables
 
@@ -365,7 +365,7 @@ export default {
 
 A [list of valid languages](https://shiki.style/languages) is available on Shiki's repository.
 
-You may also customize syntax highlight theme in app config. Please see [`markdown` options](../reference/site-config#markdown) for more details.
+You may also customize syntax highlight theme in app config. Please see [`markdown` options](https://vitepress.dev/reference/site-config#markdown) for more details.
 
 ## Line Highlighting in Code Blocks
 
@@ -571,7 +571,7 @@ export default {
 }
 ```
 
-Please see [`markdown` options](../reference/site-config#markdown) for more details.
+Please see [`markdown` options](https://vitepress.dev/reference/site-config#markdown) for more details.
 
 You can add `:line-numbers` / `:no-line-numbers` mark in your fenced code blocks to override the value set in config.
 
@@ -1032,4 +1032,4 @@ export default defineConfig({
 })
 ```
 
-See full list of configurable properties in [Config Reference: App Config](../reference/site-config#markdown).
+See full list of configurable properties in [Config Reference: App Config](https://vitepress.dev/reference/site-config#markdown).
