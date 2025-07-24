@@ -86,11 +86,6 @@ git add .
 git commit -m "Add clear, descriptive commit message"
 ```
 
-Follow these commit message guidelines:
-- Start with a verb (Add, Update, Fix, Remove)
-- Be specific about what changed
-- Keep it under 72 characters
-
 Good examples:
 - `Add governance guidelines for proposal process`
 - `Fix broken link in contributing guide`

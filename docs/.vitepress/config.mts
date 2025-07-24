@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/meta/',
-  title: "Hypercore.one Meta",
-  description: "Hypercore.one Records & Governance Documents",
+  title: "Hypercore One Meta",
+  description: "Hypercore One Records & Governance Documents",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
