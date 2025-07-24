@@ -5,8 +5,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # VitePress build artifacts
-docs/.vitepress/dist
-docs/.vitepress/cache
+.vitepress/dist
+.vitepress/cache
 
 # IDE and editor files
 .vscode/

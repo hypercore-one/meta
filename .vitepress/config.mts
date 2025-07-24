@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Documentation', link: '/' },
-      { text: 'Writing', link: '/markdown' }
+      { text: 'Writing', link: '/contributing' }
     ],
 
     sidebar: [
@@ -27,7 +27,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/hypercore-one/meta/edit/master/docs/:path',
+      pattern: 'https://github.com/hypercore-one/meta/edit/master/:path',
       text: 'Edit this page on GitHub'
     },
 
