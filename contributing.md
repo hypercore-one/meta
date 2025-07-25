@@ -169,4 +169,4 @@ If you need assistance:
 
 ## Thank You!
 
-Your contributions help make Hypercore.one documentation better for everyone. We appreciate your time and effort in improving our community resources!
+Your contributions help make HyperCore One documentation better for everyone. We appreciate your time and effort in improving our community resources!
