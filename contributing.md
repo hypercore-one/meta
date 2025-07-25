@@ -1,6 +1,6 @@
 # Contributing to the Documentation
 
-Thank you for your interest in contributing to the Hypercore.one Meta documentation! This guide will walk you through the process of proposing changes and submitting them for review.
+Thank you for your interest in contributing to the HyperCore One Meta documentation! This guide will walk you through the process of proposing changes and submitting them for review.
 
 ## Prerequisites
 
