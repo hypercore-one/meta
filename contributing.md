@@ -11,7 +11,7 @@ Before you begin, make sure you have:
 
 ## Step 1: Fork the Repository
 
-1. Navigate to the [Hypercore.one Meta repository](https://github.com/hypercore-one/meta)
+1. Navigate to the [HyperCore One Meta repository](https://github.com/hypercore-one/meta)
 2. Click the **Fork** button in the upper right corner
 3. This creates a copy of the repository under your GitHub account
 
