@@ -9,19 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Documentation', link: '/' },
-      { text: 'Writing', link: '/contributing' }
+      { text: 'Contributing', link: '/contributing' }
     ],
 
     sidebar: [
       {
-        text: 'Meta'
-      },
-      {
-        text: 'Writing',
+        text: 'Meta',
         items: [
-          { text: 'Contributing', link: '/contributing'},
-          { text: 'Markdown Examples', link: '/markdown' },
-          { text: 'Frontmatter Examples', link: '/frontmatter' }
+          { text: 'Contributing', link: '/contributing'}
         ]
       }
     ],
