@@ -47,7 +47,7 @@ Use descriptive branch names like:
    - SIG charters: `docs/sigs/`
    - General docs: `docs/`
 
-2. Write your content using [Markdown syntax](/markdown)
+2. Write your content using Markdown syntax
 
 ### Updating Navigation
 
