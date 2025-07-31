@@ -12,14 +12,15 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Documentation', link: '/' },
-      { text: 'Contributing', link: '/contributing' }
+      { text: 'Matrix', link: 'https://matrix.to/#/#zenon-sigs:zenon.chat' },
+      { text: 'Forum', link: 'https://forum.hypercore.one/' }
     ],
 
     sidebar: [
       {
         text: 'Meta',
         items: [
+          { text: 'README', link: '/'},
           { text: 'Contributing', link: '/contributing'}
         ]
       }
