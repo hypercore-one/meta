@@ -5,6 +5,10 @@ export default defineConfig({
   base: '/meta/',
   title: "Hypercore One Meta",
   description: "Hypercore One Records & Governance Documents",
+  rewrites: {
+    'README.md': 'index.md',
+    '(.*)/README.md': '(.*)/index.md'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
