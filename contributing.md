@@ -42,10 +42,9 @@ Use descriptive branch names like:
 ### Adding New Documentation
 
 1. Create your new markdown file in the appropriate directory:
-   - Governance documents: `docs/governance/`
-   - ADRs: `docs/adrs/`
-   - SIG charters: `docs/sigs/`
-   - General docs: `docs/`
+   - Governance documents: `governance/`
+   - ADRs: `adrs/`
+   - SIG charters: `sigs/`
 
 2. Write your content using Markdown syntax
 
@@ -53,7 +52,7 @@ Use descriptive branch names like:
 
 If you're adding a new page, you'll need to update the VitePress configuration:
 
-1. Open `docs/.vitepress/config.mts`
+1. Open `.vitepress/config.mts`
 2. Add your new page to the appropriate section:
 
 ```typescript
