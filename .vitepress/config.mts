@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/meta/',
-  title: "Hypercore One Meta",
-  description: "Hypercore One Records & Governance Documents",
+  title: "HyperCore One Meta",
+  description: "HyperCore One Records & Governance Documents",
   rewrites: {
     'README.md': 'index.md',
     '(.*)/README.md': '(.*)/index.md'
